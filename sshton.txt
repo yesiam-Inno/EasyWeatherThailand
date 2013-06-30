@@ -1,10 +1,15 @@
 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA28TYYjSYfEn/0DqxOkeuZuM4xPhd1ARMFzHNCI6AuETJaCP/QWIQAUN+K0ju7N2m0ZKAkWrDRys2+w8y3oxOWpuz5yCoG/rb+KFhjuzrFZyRyotQetWc0HRzw0Bjzf8PGr9U5A9ysPoIaT4Iw8bOGHykli29fuu5KYmuKBQ/918rHdfRZbKSMcBksay57MDVXW7SgB+a0RmPuYD8ok0/DKe4+kRljWFdFlSP240YTuGgyxl1PPfMtHOKaoTwBG0rHvU1Z0LrPJl8rsS6WHKAFsUxhdQvVSaqV3Ul8xBEO0U3ZA2NssEpzC+/gvgtuAPqnGFdoQo0ug9S6bYoG7L2tw== chatuphon@synaturegroup.com
 
 
+<<<<<<< Updated upstream
 
 
 git@github.com:SynatureProject/TestProject.git
 
+=======
+Delete From Staffs Where StaffID >3;
+Delete From StaffRole Where StaffRoleID > 4;
+>>>>>>> Stashed changes
 
 Delete From document;
 Delete From docdetail;
