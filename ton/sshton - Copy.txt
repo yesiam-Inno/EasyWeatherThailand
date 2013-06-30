@@ -1,0 +1,8 @@
+
+Delete From Staffs Where StaffID >3;
+Delete From StaffRole Where StaffRoleID > 4;
+
+
+Delete From document;
+Delete From docdetail;
+Delete From docdetailtemp;
