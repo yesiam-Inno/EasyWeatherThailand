@@ -4,3 +4,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA28TYYjSYfEn/0DqxOkeuZuM4xPhd1ARMFzHNCI6AuETJ
 
 
 git@github.com:SynatureProject/TestProject.git
+
+
+Delete From document;
+Delete From docdetail;
+Delete From docdetailtemp;
