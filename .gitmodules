@@ -1,0 +1,6 @@
+[submodule "MyFirstRepoPu"]
+	path = MyFirstRepoPu
+	url = https://github.com/korraritk/MyFirstRepo
+[submodule "EasyWeatherThailand-Mobile"]
+	path = EasyWeatherThailand-Mobile
+	url = ../EasyWeatherThailand-Mobile.git
